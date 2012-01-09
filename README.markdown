@@ -66,5 +66,5 @@ nazwę mojego bloga *WB@jBlog*.
 W pliku *SVG* literki składane są fontem *OTF*
 [Cyklop](http://nowacki.strefa.pl/cyklop.html). Komputerową
 wersję tego fontu przygotował Janusz M. Nowacki.
-    
+ble ble ble...    
 Oczywiście można też samemu przygotowac logo.
